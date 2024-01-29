@@ -13,6 +13,7 @@ Welcome to Px Shell, a Python-based command-line utility with a variety of featu
 1. Download the Px Shell script from the [GitHub repository](https://github.com/pyroalww).
 2. Make sure you have Python installed on your system.
 3. Run the script using the Python interpreter.
+![image](https://github.com/pyroalww/px/assets/134533935/ea3cb12b-b8a8-42df-a92a-e68007879828)
 
 ```bash
 python px_shell.py
