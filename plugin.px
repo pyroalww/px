@@ -1,0 +1,9 @@
+{
+    'command1': {
+        'description': 'An example new command',
+        'usage': 'newcommand [args]',
+        'function': self.new_command_function
+    }
+
+}
+
